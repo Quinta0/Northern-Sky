@@ -32,7 +32,7 @@ svg * {
 .menu {
 	padding: var(--size-2-1);
 	border-radius: var(--radius-m);
-	background-color: var(--background);
+	background-color: var(--background-primary);
 	color: var(--text);
 }
 
@@ -63,7 +63,7 @@ svg * {
 }
 
 body.theme-light {
-	background-color: var(--background);
+	background-color: var(--background-primary);
 	color: var(--text);
 }
 
