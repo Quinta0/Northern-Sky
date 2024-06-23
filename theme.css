@@ -12,6 +12,8 @@ body {
 	--slider-thumb-radius: 12px;
 	background-color: var(--primary);
 	color: var(--text);
+	font-family: 'Finlandica', sans-serif;
+	--font-text-theme: 'Finlandica', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
