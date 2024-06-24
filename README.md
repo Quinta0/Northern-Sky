@@ -1,1 +1,1 @@
-![image](Northern-Sky.png)
+![image](image.png)
